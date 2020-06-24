@@ -12,7 +12,7 @@ This a facebook messenger bot using the python module fbchat as a wrapper and di
 
 4) Run the bot by running fb_bot.py with "python3 fb_bot.py"
 
-5) If there are any missing modules, make sure to download them. There is a requirments.txt included though I didnt make a virtual environment so some of the modules might not actually be used unfortunately.
+5) If there are any missing modules, make sure to download them. There is a requirments.txt included.
 
  
 
