@@ -23,7 +23,3 @@ Fbchat is a python module that pretends to be an actual user logged in to a brow
 Below is how all the files in the project work together
 
 ![fb_bot.png](fb_bot.png)
-
-# Caution!!
-
-Please use this bot on throwaway accounts as there is a risk of the facebook account being banned. Also, due to the limit of requests that certain api's allow, such as youtube's api and bible api, please make an account on their websites and get your own api key to prevent the api key from reaching its request limit
